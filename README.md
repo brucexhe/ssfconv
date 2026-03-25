@@ -4,3 +4,5 @@
 ### requirements:
 `pip install Pillow`
 
+### screenshot:
+![](screenshot.png)
